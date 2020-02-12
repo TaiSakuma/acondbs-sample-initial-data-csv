@@ -1,4 +1,4 @@
-id,name,path,input_map_id,input_beam_id
+beam_id,name,path,input_map_id,input_beam_id
 1010,20180101,,,
 1070,20190304,BEAM_DEPOT/Beams/20190304,,
 1120,20190607,BEAM_DEPOT/Beams/20190607,,
