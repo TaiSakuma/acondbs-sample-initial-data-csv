@@ -5,3 +5,5 @@ relation_id,type_id,self_product_id,other_product_id,reverse_relation_id
 4,2,1013,1150,3
 5,1,1150,1130,6
 6,2,1130,1150,5
+7,2,1192,1130,8
+8,1,1130,1192,7
